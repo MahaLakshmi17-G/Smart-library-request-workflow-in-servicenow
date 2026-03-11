@@ -47,7 +47,7 @@ The Smart Library Request Workflow simplifies the process of handling library re
 
  *Team Members* 
 
- Mahalakshimi G
+Mahalakshimi G
 Jannani J
 Nilofar Nisha A
 Sivaranjani K
